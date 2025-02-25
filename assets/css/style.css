@@ -167,6 +167,16 @@ body{
     color: #dc2626;
 }
 
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer a{
+    color: #fcbd28;
+}
+
 @media screen and (max-width: 1024px){
     #img{
         display: none;
